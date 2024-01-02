@@ -15,21 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cpp.cpp">
+    <ClCompile Include="src\cpp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\Logger.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="LinkedList.cpp">
+    <ClCompile Include="src\LinkedList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="include\Logger.h">
+    <ClInclude Include="include\LinkedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LinkedList.h">
+    <ClInclude Include="include\Logger.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
